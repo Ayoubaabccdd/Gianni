@@ -16,5 +16,12 @@ namespace Gianni
         {
             InitializeComponent();
         }
+        class Calcolatrice
+        {
+            public Calcolatrice()
+            {
+
+            }
+        }
     }
 }
